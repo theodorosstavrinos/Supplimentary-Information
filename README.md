@@ -8,4 +8,4 @@ SUPERVISOR: JONATHAN A.R. WORRAL
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This repository contains homology models for the structures of WT/F174A/I177A OleTSa in addition to the amino acid sequences used to predict them. Furthermore, it contains some of the protocols used in the Methods and Materials section. 
+The project investigates the effects of an FG-loop mutation (F174A) on substrate binding and catalysis of the cytochrome P450 peroxygenase OleTSa from Staphylococcus aureus. Included are detailed experimental protocols (From Methods and Materials), UV/Vis spectroscopy data, DNA sequencing chromatograms verifying site-directed mutagenesis, computationally derived homology models of wild-type and mutant OleTSa proteins with the amino acid sequences used to generate them.
