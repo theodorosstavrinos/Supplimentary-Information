@@ -2,8 +2,8 @@
 # SCHOOL OF BIOLOGICAL SCIENCES #
 # FINAL YEAR PROJECT, B.Sc. BIOCHEMISTRY #
 # FG-LOOP REGULATION ON SUBSTRATE ASSOCIATION: DIMINISHED BINDING CAPABILITIES OF F174A OleTSa MUTANT #
-# THEODOROS STAVRINOS #
-# SUPERVISOR: JONATHAN A.R. WORRAL #
+AUTHOR: THEODOROS STAVRINOS
+SUPERVISOR: JONATHAN A.R. WORRAL
 25/03/2025
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
